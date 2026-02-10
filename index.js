@@ -6,7 +6,7 @@ function copyEmail() {
 
         // Simple typing animation
         const dynamicText = document.querySelector('.dynamic-text');
-        const roles = ['Computer Science Student', 'Software Developer', 'Full-Stack Developer', 'Network Enthusiast'];
+        const roles = ['Computer Science Student', 'Software Developer', ' Devops Enthusiast', 'Network Enthusiast'];
         let roleIndex = 0;
         
         setInterval(() => {
